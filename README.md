@@ -8,5 +8,5 @@
 
 | Black and Decker Roll | Garden wire |
 | --------------------- | ----------- |
-| ![Black and Decker Roll](https://raw.githubusercontent.com/opencultureagency/ASKmod-Mechanical-Tool-Set/main/images/ASKmod-Mechanical-Tool-Set.jpg) | ![Garden Wire](https://raw.githubusercontent.com/opencultureagency/ASKmod-Mechanical-Tool-Set/main/images/ASKmod-Mechanical-Tool-Set.jpg) |
+| ![Black and Decker Roll](https://raw.githubusercontent.com/opencultureagency/ASKmod-Mechanical-Tool-Set/main/images/ASKmod-Mechanical-Tool-Set.jpg) | ![Garden Wire](https://raw.githubusercontent.com/opencultureagency/ASKmod-Mechanical-Tool-Set/main/images/garden-wire.jpg) |
 | [#ASKotec Stockroom](https://askotec.openculture.agency/product/blackdecker-tool-set/) | [#ASKotec Stockroom](https://askotec.openculture.agency/product/garden-wire/) |
