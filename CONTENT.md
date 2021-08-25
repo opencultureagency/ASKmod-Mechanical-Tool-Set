@@ -6,12 +6,12 @@
 
 ## Mechanical Tool Set
 
-![#ASKmod mechanical tool set](images/ASKmod-Mechanical-Tool-Set.jpg)
+![#ASKmod mechanical tool set](https://raw.githubusercontent.com/opencultureagency/ASKmod-Mechanical-Tool-Set/d4c07eb3afddaa17bd924d39073454983b1cd46e/images/ASKmod-Mechanical-Tool-Set.jpg)
 
 ## Items
 
-- Black and Decker Roll: https://www.amazon.de/gp/product/B003BUAE70/
-- Garden Wire: https://www.bauhaus.info/pflanzenbinder/gardol-gartendraht/p/24803731
+- 1x Black and Decker Roll: https://www.amazon.de/gp/product/B003BUAE70/
+- 1x Garden Wire: https://www.bauhaus.info/pflanzenbinder/gardol-gartendraht/p/24803731
 
 ## Reference
 

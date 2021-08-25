@@ -8,7 +8,7 @@ The mechanical tool set has all the basic tools to repair the mechanics of a dev
 - Repair cars
 - Other medium and large machines
 
-![#ASKmod Mechanical Tool Set](https://raw.githubusercontent.com/opencultureagency/ASKmod-Mechanical-Tool-Set/main/images/ASKmod-Mechanical-Tool-Set.jpg)
+![#ASKmod Mechanical Tool Set](images/ASKmod-Mechanical-Tool-Set.jpg)
 
 ### [View product in #ASKotec Stockroom](https://askotec.openculture.agency/product/askmod-mechanical-tool-set/)
 
@@ -61,7 +61,7 @@ If you have any questions or suggestions, feel free to [write us an issue](https
 
 ## Release Notes
 
-- [v.1.0](https://github.com/opencultureagency/ASKmod-Mechanical-Tool-Set/tree/v.1.0.0): BlackandDecker Roll + Garden wire
+- [v.1.0.0](https://github.com/opencultureagency/ASKmod-Mechanical-Tool-Set/tree/v.1.0.0): BlackandDecker Roll + Garden wire
 
 ## Contributers
 
