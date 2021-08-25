@@ -61,7 +61,7 @@ If you have any questions or suggestions, feel free to [write us an issue](https
 
 ## Release Notes
 
-- [v.1.0](#): BlackandDecker Roll + Garden wire
+- [v.1.0](https://github.com/opencultureagency/ASKmod-Mechanical-Tool-Set/tree/v.1.0.0): BlackandDecker Roll + Garden wire
 
 ## Contributers
 
