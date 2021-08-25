@@ -1,15 +1,18 @@
 # #ASKmod Mechanical-Tool-Set
 
+#ASKmod is a part of the #ASKotec project: [Official Website](https://askotec.openculture.agency)
+
 The mechanical tool set has all the basic tools to repair the mechanics of a device. You can not only repair with it, but you can also build something with it. There are various tools such as screwdrivers, ratchets, pliers or open-end wrenches included. You can use the set for the following scenarios, for example:
 
 - Repair bicycles
-
+- Repair cars
+- Other medium and large machines
 
 ![#ASKmod Mechanical Tool Set](https://raw.githubusercontent.com/opencultureagency/ASKmod-Mechanical-Tool-Set/main/images/ASKmod-Mechanical-Tool-Set.jpg)
 
-[View product in #ASKotec Stockroom](https://askotec.openculture.agency/product/askmod-mechanical-tool-set/)
+### [View product in #ASKotec Stockroom](https://askotec.openculture.agency/product/askmod-mechanical-tool-set/)
 
-## Content
+## How to build
 
 This ASKmod is based on a [Black & Decker tool roll](https://askotec.openculture.agency/product/blackdecker-tool-set/) with the following modifications:
 
@@ -57,6 +60,16 @@ Feel free to develop this ASKmod further, modify it or create your own ASKmod.
 If you have any questions or suggestions, feel free to [write us an issue](https://github.com/opencultureagency/ASKmod-Mechanical-Tool-Set/issues/new).
 
 ## Release Notes
+
+- [v.1.0](#): BlackandDecker Roll + Garden wire
+
+## Contributers
+
+- [r0g Agency](https://openculture.agency/)
+- Timm Wille
+- [Bastian Menningen](https://www.bmen.cc)
+- Martin Häuer
+- [Steven Kovats](https://openculture.agency/)
 
 ## License
 
