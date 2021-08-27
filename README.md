@@ -26,7 +26,6 @@ We added a [garden wire](https://askotec.openculture.agency/product/garden-wire/
 ### Content of the Black and Decker Roll
 
 - Open-end wrench in the following sizes:
-    - 19/17
     - 15/14
     - 13/12
     - 11/10
@@ -61,7 +60,7 @@ Feel free to develop this ASKmod further, modify it or create your own ASKmod.
 If you have any questions or suggestions, feel free to [write us an issue](https://github.com/opencultureagency/ASKmod-Mechanical-Tool-Set/issues/new).
 
 ## Release Notes
-
+- [v.1.1.0](https://github.com/opencultureagency/ASKmod-Mechanical-Tool-Set/tree/v.1.1.0): removed Open-end wrench 19/17
 - [v.1.0.0](https://github.com/opencultureagency/ASKmod-Mechanical-Tool-Set/tree/v.1.0.0): BlackandDecker Roll + Garden wire
 
 ## Contributers
