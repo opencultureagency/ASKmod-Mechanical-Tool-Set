@@ -26,12 +26,11 @@ We added a [garden wire](https://askotec.openculture.agency/product/garden-wire/
 ### Content of the Black and Decker Roll
 
 - Open-end wrench in the following sizes:
-    - 19
-    - 17
-    - 15
-    - 13 (2x)
-    - 10 (2x)
-    - 8
+    - 19/17
+    - 15/14
+    - 13/12
+    - 11/10
+    - 9/8
 - Ratchet with the following attachments:
     - 6 mm
     - 8 mm
@@ -50,8 +49,10 @@ We added a [garden wire](https://askotec.openculture.agency/product/garden-wire/
 - Spare batteries
 - Allen wrench
 - Pointing stick
+- Adjustable wrench
 
-### Content of the garden wire
+### Content added
+
 - Metal garden wire with 0.5 mm diameter and 40 m length
 
 ## Developers
