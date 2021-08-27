@@ -1,6 +1,6 @@
 # #ASKmod Content
 
-| Version: | 1.0.0        |
+| Version: | 1.0.1        |
 | -------- | ------------ |
 | License: | [CC-BY-SA 4.0](https://github.com/opencultureagency/ASKmod-Mechanical-Tool-Set/blob/main/LICENSE.md) |
 
@@ -10,8 +10,8 @@
 
 ## Items
 
-- 1x Black and Decker Roll: https://www.amazon.de/gp/product/B003BUAE70/
-- 1x Garden Wire: https://www.bauhaus.info/pflanzenbinder/gardol-gartendraht/p/24803731
+- 1x [Black and Decker Roll](https://askotec.openculture.agency/product/blackdecker-tool-set/)
+- 1x [Garden Wire](https://askotec.openculture.agency/product/garden-wire/)
 
 ## Reference
 
