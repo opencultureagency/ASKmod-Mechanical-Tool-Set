@@ -44,8 +44,6 @@ We added a [garden wire](https://askotec.openculture.agency/product/garden-wire/
     - Torx attachments in 6 different sizes
 - Pliers
 - Needle nose pliers
-- Flashlight
-- Spare batteries
 - Allen wrench
 - Pointing stick
 - Adjustable wrench
